@@ -1,4 +1,4 @@
-![在这里插入图片描述](app\src\main\res\drawable\communismbutton.png)
+![图片](https://img-blog.csdnimg.cn/20190411211219652.png)
 #### 共产主义按钮
 **功能：用力点击按钮！然后尽情沉醉在共产主义之中吧！**
 
