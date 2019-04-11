@@ -55,9 +55,6 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    //######################################
-    // CONSTRUCTION
-    //######################################
     @Override
     protected void onDestroy() {
         super.onDestroy();
