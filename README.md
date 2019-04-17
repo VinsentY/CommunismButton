@@ -1,4 +1,5 @@
-![图片](https://img-blog.csdnimg.cn/20190411211219652.png)
+![图片](https://raw.githubusercontent.com/VinsentY/communismbutton/master/app/src/main/res/drawable/communismbutton.png)
+
 #### 共产主义按钮
 **功能：用力点击按钮！然后尽情沉醉在共产主义之中吧！**
 
